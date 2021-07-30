@@ -17,7 +17,7 @@ for ( var i = 0; i < verifiedMails.length; i++) {
 
 
     // Se la variabile assume il valore di true e quindi la mail inserita fa parte della lista scrivo
-if (accesso = false){
+if (accesso == false){
     alert("Ci dispiace ma non potrai mai far parte del nostro gruppo esclusivo.");  
 
     // Se la variabile assume il valore di true e quindi la mail inserita fa parte della lista scrivo
