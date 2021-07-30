@@ -1,5 +1,5 @@
 // Chiedere all'utente di inserire la sua mail
-var mailUtente = prompt("Vuoi scoprire se hai accesso al nostro Vip Club? Inserisci la tua email.")
+var mailUtente = prompt("Vuoi scoprire se hai accesso al nostro Vip Club? Inserisci la tua email.");
 
 // Definisco il gruppo di mail selezionate per l'accesso esclusivo al Vip Club.
 var verifiedMails = ["ginoamiocuggino@mail.com", "pincopallo@mail.com", "mail@mail.com"];
